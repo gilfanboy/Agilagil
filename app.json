@@ -1,6 +1,6 @@
 {
-  "name": "⚡𝗚𝗲𝗲𝘇 𝙐𝙎𝙀𝙍𝘽𝙊𝙏⚡",
-  "description": "🚫Geez-UserBot🚫 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "👻𝘼𝙜𝙞𝙡𝙖𝙜𝙞𝙡👻",
+  "description": "👻Agilagil👻 USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/vckyou/Geez-UserBot",
-  "telegram": "https://t.me/VckyouuBitch",
-  "success_url": "https://t.me/GeezSupportGroup",
+  "repository": "https://github.com/gilfanboy/Agilagil",
+  "telegram": "https://t.me/papikyw",
+  "success_url": "https://t.me/chatinggroupindonesia",
   "stack": "container",
   "env": {
     "API_KEY": {
