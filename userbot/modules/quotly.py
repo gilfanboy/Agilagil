@@ -21,7 +21,7 @@ async def quott_(event):
     match = event.pattern_match.group(1).strip()
     if not event.is_reply:
         return await edit_delete(event, "`Reply Kepesan!`")
-    msg = await edit_or_reply(event, "Sedang Memprosess!!")
+    msg = await edit_or_reply(event, "𝘈𝘨𝘪𝘭 𝘴𝘦𝘥𝘢𝘯𝘨 𝘮𝘦𝘮𝘣𝘶𝘢𝘵 𝘴𝘵𝘪𝘬𝘦𝘳, 𝘮𝘰𝘩𝘰𝘯 𝘵𝘶𝘯𝘨𝘨𝘶...!!")
     reply = await event.get_reply_message()
     replied_to, reply_ = None, None
     if match:
